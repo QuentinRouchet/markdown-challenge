@@ -35,4 +35,4 @@ When i was younger, i was a big fan of my Playstation 2. And a day, someone of n
 
 My playstation 2 still work !
 
-[Olivia la bro](https://github.com/OliviaDemaret/markdown-challenge) || [Quentin Rouchet](https://github.com/QuentinRouchet/markdown-challenge) || [Romain le boss](https://github.com/Zaddes/markdown-challenge)
+[previous](https://github.com/OliviaDemaret/markdown-challenge) || [QUENTIN ROUCHET](https://github.com/QuentinRouchet/markdown-challenge) || [next](https://github.com/Zaddes/markdown-challenge)
