@@ -33,6 +33,6 @@ When i was younger, i was a big fan of my Playstation 2. And a day, someone of n
 
 ### TL;DR
 
-My playstation 2 still working !
+My playstation 2 still work !
 
-[Olivia la bro]() || Quentin Rouchet || [Romain le boss]()
+[Olivia la bro](https://github.com/OliviaDemaret/markdown-challenge) || [Quentin Rouchet](https://github.com/QuentinRouchet/markdown-challenge) || [Romain le boss](https://github.com/Zaddes/markdown-challenge)
