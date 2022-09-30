@@ -11,7 +11,7 @@
 |---|---|
 |Favorite color|Blue|
 |Favorite food|Fries and hamburger for sure|
-|Pinneaple on pizza|- [ ]|
+|Pinneaple on pizza|No|
 
 ## Hobbies
 
@@ -35,4 +35,4 @@ When i was younger, i was a big fan of my Playstation 2. And a day, someone of n
 
 My playstation 2 still work !
 
-[previous](https://github.com/OliviaDemaret/markdown-challenge) || [QUENTIN ROUCHET](https://github.com/QuentinRouchet/markdown-challenge) || [next](https://github.com/Zaddes/markdown-challenge)
+[<< previous](https://github.com/OliviaDemaret/markdown-challenge) || [QUENTIN ROUCHET] || [next >>](https://github.com/Zaddes/markdown-challenge)
