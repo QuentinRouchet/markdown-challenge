@@ -7,8 +7,9 @@
 
 ## Me, in one sentence
 
-|Birthday|21/11|
+|Question|Answer|
 |---|---|
+|Birthday|21/11|
 |Favorite color|Blue|
 |Favorite food|Fries and hamburger for sure|
 |Pinneaple on pizza|No|
@@ -35,4 +36,4 @@ When i was younger, i was a big fan of my Playstation 2. And a day, someone of n
 
 My playstation 2 still work !
 
-[<< previous](https://github.com/OliviaDemaret/markdown-challenge) || [QUENTIN ROUCHET] || [next >>](https://github.com/Zaddes/markdown-challenge)
+[<< previous](https://github.com/OliviaDemaret/markdown-challenge) || QUENTIN ROUCHET || [next >>](https://github.com/Zaddes/markdown-challenge)
